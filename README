@@ -1,0 +1,7 @@
+GeigerTracker is a project to create web-based graphs of radiation data collected from a geiger counter. This is the client.
+
+You can find the server here:
+https://github.com/micahflee/geigertracker_server
+
+You can find the client here:
+https://github.com/micahflee/geigertracker_client
